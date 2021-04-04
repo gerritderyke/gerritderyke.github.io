@@ -25,3 +25,7 @@ body {
 .style {
   font-size: 75%
 }
+
+.company {
+  font-style: italic;
+}
